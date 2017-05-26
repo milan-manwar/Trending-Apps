@@ -6,6 +6,16 @@
 //  Copyright © 2017 apps. All rights reserved.
 //
 
+
+/****************************************
+ 
+ The soul purpose of this repository is to learn basic syntax of Swift 3, getting familiar with UITableViews, JSON parsing and Aysn Image downloads.
+ 
+ Please do not consider this repo as the learning resource, as there may or may not be some code that should not be written as it should be. This may misguide you and you run too far on wrong way due to this project.
+ 
+ ****************************************
+ */
+
 import UIKit
 
 class ViewController: UIViewController {
