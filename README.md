@@ -3,7 +3,9 @@ A simple demonstration of parsing Apple RSS feed of top trending apps using swif
 
 
 ##Screenshots
+
 ![alt text](https://github.com/iOSCuriosity/Trending-Apps/blob/master/Trending%20Apps/preview.png)
+
 ##Notes
 The soul purpose of this repository is to learn basic syntax of Swift 3, getting familiar with UITableViews, JSON parsing and Aysnc Image downloads.
  
